@@ -1,0 +1,89 @@
+.container{
+    margin-bottom: 20px;
+}
+.header-h{
+    background-color: white;
+    
+    font-weight: 600;
+    
+}
+.menu-sec img{
+    width:120px;
+    height:60px;
+}
+.nav-men a{
+    color:gray;
+}
+.carousel-sec{
+    height: 400px;
+}
+.mackpro-t{
+    
+    
+}
+.mackpro-row{
+    align-items: center;
+    background-color: ;
+    margin-bottom:20px;
+    
+    height:500px;
+}
+.smart-w{
+    
+    
+}
+.carous{
+   
+}
+.smart-row a{
+    font-size: 20px;
+    text-decoration:none;
+    color: goldenrod;
+    text-align:right;
+}
+
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat-row{
+    
+}
+.cat-h{
+    
+  
+   margin:0 auto;
+}
+.cat-div{
+    
+
+}
+.six{
+    border: 1px solid red;
+    width: 40%;
+    height: 500px;
+    text-align: center;
+}
+
+.left{
+    border: 1px solid pink;
+}
+
+.right{
+    border: 1px solid red;
+    
+}
+.carousel-indicator li{
+    width: 12px;
+    height: 9px;
+    background-color: #cacaca;
+    border-radius: 46%;
+}
+.carousel-indicator .actice{
+    opacity: 1;
+    width: 32px;
+    height: 9px;
+    background-image: linear-gradient(45deg,#fdc21f,#fcc87a);
+    border-radius: 44%;
+    transition:8s;
+}
