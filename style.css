@@ -87,3 +87,17 @@
     border-radius: 44%;
     transition:8s;
 }
+.categories-card {
+    box-shadow: 0px 5px 15px gray;
+    padding: 5%;
+}
+.mt-5{
+    margin-top: 6rem!important;
+}
+/* End  */
+
+/* Footer  */
+footer {
+    padding: 5%;
+}
+/* End  */
